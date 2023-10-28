@@ -4,7 +4,7 @@ Cowrie
 Welcome to the Cowrie GitHub repository
 *****************************************
 
-This is the official repository for the Cowrie SSH and Telnet
+This is the official repository for the Cowrie SSH and 
 Honeypot effort.
 
 What is Cowrie
